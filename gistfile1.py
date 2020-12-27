@@ -1,4 +1,4 @@
-# Copyright © 2020 Your Name sebpiq@protonmail.com
+# Copyright © 2020 Sébastien Piquemal sebpiq@protonmail.com
 # This work is free. You can redistribute it and/or modify it under the
 # terms of the Do What The Fuck You Want To Public License, Version 2,
 # as published by Sam Hocevar. See the license text below for more details.
